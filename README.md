@@ -7,6 +7,6 @@ A showcase project highlighting the creative works, animations, and edits from t
 - Easy to expand with new creators or content
 
 
-##👨‍💻 Technologies Used
+###👨‍💻 Technologies Used
 - HTML
 - CSS
