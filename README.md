@@ -8,5 +8,5 @@ A showcase project highlighting the creative works, animations, and edits from t
 
 
 ##👨‍💻 Technologies Used
--HTML
--CSS
+- HTML
+- CSS
